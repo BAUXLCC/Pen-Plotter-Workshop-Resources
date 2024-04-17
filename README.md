@@ -1,16 +1,16 @@
 # Pen-Plotter-Workshop-Resources
 
 ### Contents
-* [Software](https://github.com/PGBullteaching/Pen-Plotter-Workshop-Resources/edit/main/README.md#pen-plotter-softwares)
-* [Tools](https://github.com/PGBullteaching/Pen-Plotter-Workshop-Resources/edit/main/README.md#useful-tools)
-* [Ready to go plotter designs](https://github.com/PGBullteaching/Pen-Plotter-Workshop-Resources/edit/main/README.md#premade-plotter-files-creative-coding-and-svgs)
-* [Image to SVG plotter converters](https://github.com/PGBullteaching/Pen-Plotter-Workshop-Resources/edit/main/README.md#image-to-svg-plotter)
-* [Generative AI tools](https://github.com/PGBullteaching/Pen-Plotter-Workshop-Resources/edit/main/README.md#generative-ai-shapes-and-images)
-  * [Complex shape builders](https://github.com/PGBullteaching/Pen-Plotter-Workshop-Resources/edit/main/README.md#complex-shape-builders)
-* [Map makers](https://github.com/PGBullteaching/Pen-Plotter-Workshop-Resources/edit/main/README.md#map-makers)
-* [Processing/Coding](https://github.com/PGBullteaching/Pen-Plotter-Workshop-Resources/edit/main/README.md#processingcoding)
+* [Software](#software)
+* [Tools](#tools)
+* [Ready to go plotter designs](#readymade)
+* [Image to SVG plotter converters](#converters)
+* [Generative AI tools](#genai)
+  * [Complex shape builders](#complexshapes)
+* [Map makers](#maps)
+* [Processing/Coding](#ccode)
 
-## Pen Plotter Softwares
+<h2 id="software">Pen Plotter Softwares</h2>
 
   [AxiDraw](https://wiki.evilmadscientist.com/Axidraw_Software_Installation)
 
@@ -19,7 +19,7 @@
 
 ---
 
-## Useful tools
+<h2 id="tools">Useful tools</h2>
 
 ##### [SVG Optimizer](https://plotterfiles.com/tools/optimizer)
 
@@ -27,7 +27,7 @@
 
 ---
 
-## Premade Plotter files, creative coding and SVGs
+<h2 id="readymade">Premade Plotter files, creative coding and SVGs</h2>
 
 #### [PlotterFiles](https://plotterfiles.com/)
 
@@ -38,14 +38,14 @@
 #### [TurtleToys](https://turtletoy.net/turtle/browse/love/)
 
 ---
-## Image to SVG Plotter
+<h2 id="converters">Image to SVG Plotter</h2>
 
 ##### [PlotterFun](https://mitxela.com/plotterfun/)
 
 ##### [SVGurt](https://svgurt.com/)
 
 ---
-## Generative AI Shapes and Images
+<h2 id="genai">Generative AI Shapes and Images</h2>
 
 ##### [Mandala Line Art](https://u840903.github.io/multiplication-mandalas/#table=78&start=54&end=100&modulo=384&rotation=5&minLength=0&keepEveryNLines=1&keepEveryNLinesShift=0&center=0)
 
@@ -62,7 +62,7 @@
 ##### [Image to Dot or spirograph](https://muffinman.io/vertigo/#dots)
 
 
-  ### Complex shape builders
+<h3 id="complexshapes">Complex shape builders</h3>
 
 ##### [Lissajous curves generator](https://lissajous.eva.town/)
 
@@ -74,7 +74,7 @@
 
 ---
 
-## Map Makers
+<h2 id="maps">Map Makers</h2>
 
 ##### [Procedural City generator](https://probabletrain.itch.io/city-generator)
 
@@ -84,6 +84,6 @@
 
 ---
 
-## Processing/Coding
+<h2 id="ccode">Processing/Coding </h2>
 
 ##### [P5 editor](https://editor.p5js.org/msurguy/sketches/1ZZhuKOjh)
