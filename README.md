@@ -1,5 +1,14 @@
 # Pen-Plotter-Workshop-Resources
 
+### Contents
+* [Software](https://github.com/PGBullteaching/Pen-Plotter-Workshop-Resources/edit/main/README.md#pen-plotter-softwares)
+* [Tools](https://github.com/PGBullteaching/Pen-Plotter-Workshop-Resources/edit/main/README.md#useful-tools)
+* [Ready to go plotter designs](https://github.com/PGBullteaching/Pen-Plotter-Workshop-Resources/edit/main/README.md#premade-plotter-files-creative-coding-and-svgs)
+* [Image to SVG plotter converters](https://github.com/PGBullteaching/Pen-Plotter-Workshop-Resources/edit/main/README.md#image-to-svg-plotter)
+* [Generative AI tools](https://github.com/PGBullteaching/Pen-Plotter-Workshop-Resources/edit/main/README.md#generative-ai-shapes-and-images)
+  * [Complex shape builders](https://github.com/PGBullteaching/Pen-Plotter-Workshop-Resources/edit/main/README.md#complex-shape-builders)
+* [Map makers](https://github.com/PGBullteaching/Pen-Plotter-Workshop-Resources/edit/main/README.md#map-makers)
+* [Processing/Coding](https://github.com/PGBullteaching/Pen-Plotter-Workshop-Resources/edit/main/README.md#processingcoding)
 
 ## Pen Plotter Softwares
 
